@@ -1,0 +1,14 @@
+{
+  "name": "jwt_gen",
+  "version": "1.0.0",
+  "description": "JWT token issuer with node js for Mediquince Integrations",
+  "main": "index.js",
+  "scripts": { "start": "node ./index.js" },
+  "keywords": ["jwt", "node"],
+  "author": "apps@aiimtech.com",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
